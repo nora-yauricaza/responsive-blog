@@ -1,0 +1,139 @@
+/* Inserta tu codigo aqui */
+
+/* Responsive */
+
+@media screen and (max-width : 920px) {
+	.{
+        width: 100%;
+    }
+    .{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+
+}
+.container{
+    width: 90%;
+    margin:0 auto;
+}
+body{
+	background-color: #2D2735;
+}
+.headerblack{
+	background-color: #000000;
+}
+.menu{
+	font-family: Open Sans;
+    font-style: italic;
+}
+.menu a{
+	text-decoration: none;
+	display: inline-block;
+	color: #FFFFFF;
+	padding: 30px 15px;
+}
+.menu a:hover{
+	color: #EFB366;
+}
+.banner{
+	background: url("../image/header-image.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	margin-top: 20px;
+	padding: 100px
+}
+.spring{    
+	width: 600px;
+    height: 150px;
+    text-align: center;
+    background-color: #1C1821;
+    margin: 0 auto;
+    padding: 20px;
+}
+.spring-text{
+	font-family: Courgette;
+	font-weight:bold;
+	font-size: 80px;
+	margin: 0px;
+	color: #EFB366;
+}
+.spring-textt{
+    font-family: Open Sans;
+    font-style: italic;
+}
+.spring-textt a{
+    text-decoration: none;
+    display: inline-block;
+    color: #FFFFFF;
+    padding: 15px 10px;
+}
+.spring-textt a:hover{
+    color: #EFB366;
+}
+.img_uno{
+	background-image: url("../image/image7.jpg");
+	background-size: cover;
+	height: 300px;
+	color: #FFFFFF;
+}
+.img_dos{
+	background-image: url("../image/image4.jpg");
+	background-size: cover;
+	height: 300px;
+	color: #FFFFFF;
+}
+.img_tres{
+	background-image: url("../image/image2.jpg");
+	background-size: cover;
+	height: 300px;
+	color: #FFFFFF;
+}
+.margin-top{
+	margin-top: 20px;
+}
+.spring-dos{    
+    text-align: center;
+    background-color: #1C1821;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: -4px;
+}
+.spring-text-dos{
+	font-family: Courgette;
+	font-weight:bold;
+	font-size: 20px;
+	margin: 0px;
+	color: #EFB366;
+}
+.texto-white{
+	color:#fff;
+}
+.texto-left{
+	text-align: left;
+}
+.img_cuatro{
+	background-image: url("../image/kew_gardens_3_500x500.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	color: #FFFFFF;
+	padding: 50%;
+}
+.border-search{
+	border: 20px solid #1C1821;
+	padding-left: 50px;
+}
+footer{
+	background-color: #1C1821;
+	text-align: center;
+	height: 100px;
+	padding-top: 10px;
+}
+.margin-top{
+	margin-top: 20px;
+}
+i{
+	text-align: left;
+	padding-right: 62px;
+}
